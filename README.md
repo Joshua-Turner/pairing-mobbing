@@ -151,8 +151,6 @@ _**Taken from one of the [links](https://www.youtube.com/watch?v=eLLOOmS-7pY&t=3
 - Pairing requires some planning. Mobbing requires much less.
   - This is referring to optimising the pair for efficiency vs learning. With pairing this is harder to do and often sacrifices learning for efficiency. In mobbing it's easier to include a member with knowledge and spread this so planning becomes incrementally more streamlined.
 - Pairing requires some coordination. Mobbing requires much less.
-- Pairing is sometimes more efficient than mobbing but when?
-  - It's easier to identify the times where mobbing is more effective in an overview than pairing
 - Mobbing could be considered an XP practice.
 
 ## Things to avoid
